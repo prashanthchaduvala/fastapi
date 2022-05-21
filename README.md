@@ -2,10 +2,10 @@
 
 ## Excute the appplication
 create virtual environment
--python -m venv bookenv
+- python -m venv bookenv
 bookenv
--cd bookenv
--Scripts\activate
+- cd bookenv
+- Scripts\activate
 
 clone project 
 - git clone 
