@@ -1,14 +1,14 @@
 # Project Name :: book_application
 
 ## Excute the appplication
-create virtual environment
+> create virtual environment
 - python -m venv bookenv
-bookenv
+> bookenv
 - cd bookenv
 - Scripts\activate
 
 clone project 
-- git clone 
+- git clone https://github.com/prashanthchaduvala/fastapi.git
 
 install requirements
 - pip install requirements.txt
@@ -20,22 +20,20 @@ runserver
 
 
 ## gitcommands
-Basic commands
+> Basic commands
 - git clone "clone project url"
 - git commit -m "add comments"
 - git push 
 
 
 ## RunServer-Commands
-How to run server  use below commands
-> below command you can use custom port 
-> Feature it will change
+> How to run server  use below commands
 - python main.py
 
 
 
 # Commands 
-Project creation
+> Project creation
 -pycharm create new project 
 - create any file eg(take new file .py)
 
@@ -45,7 +43,7 @@ Project creation
 - schemas.py file for define schema types
 
 # Installations
-install any Third party library (1) or avialable req list use (2) below commands
+> install any Third party library (1) or avialable req list use (2) below commands
 - pip install packagename
 - pip list  (command for available packages )
 - pip install -r requirements.txt  (install all dependencys)
